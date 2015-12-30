@@ -1,0 +1,6 @@
+\documentclass{article}
+\nonstopmode
+\begin{document}
+\section*{Section I}
+Hello! <%= by %>
+\end{document}
